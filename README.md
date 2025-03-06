@@ -12,4 +12,9 @@ No Terminal digitar os comandos:
 
  Nome: seu-nome
  turma: a
+ 
+## Clone Repo 
+
+- git clone <path-repo>
+
 
